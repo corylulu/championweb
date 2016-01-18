@@ -743,6 +743,8 @@ div.champion-area .container-fluid .row{
     display:block;
     margin:auto;
     margin-top:5px;
+    max-width: 196px;
+    max-height: 196px;
 }
 .champ-index-img{
   border-right: 1px solid rgb(43, 49, 52);
